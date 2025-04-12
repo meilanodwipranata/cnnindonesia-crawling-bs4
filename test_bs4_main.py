@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 url = 'https://www.cnnindonesia.com/indeks/2?page='
-jumlah_page = 10
+jumlah_page = 1001
 
 list_data =[]
 
